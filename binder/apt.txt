@@ -1,3 +1,4 @@
+cm-super
 dvipng
 ghostscript
 texlive-fonts-recommended
